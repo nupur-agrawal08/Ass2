@@ -1,3 +1,4 @@
+pip insatll tensorflow
 import tensorflow as tf
 from keras.models import Sequential
 from keras.datasets import mnist
